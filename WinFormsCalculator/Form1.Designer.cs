@@ -51,6 +51,7 @@
             // 
             // textBox
             // 
+            textBox.Anchor = AnchorStyles.Top;
             textBox.BackColor = SystemColors.Window;
             textBox.Font = new Font("Segoe UI", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             textBox.Location = new Point(14, 28);
@@ -63,6 +64,7 @@
             // 
             // butPlus
             // 
+            butPlus.Anchor = AnchorStyles.Top;
             butPlus.BackColor = SystemColors.Highlight;
             butPlus.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             butPlus.ForeColor = Color.White;
@@ -77,6 +79,7 @@
             // 
             // but3
             // 
+            but3.Anchor = AnchorStyles.Top;
             but3.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             but3.ForeColor = Color.Blue;
             but3.Image = Properties.Resources.BG1008080www_tiktarh_com_;
@@ -91,6 +94,7 @@
             // 
             // butEql
             // 
+            butEql.Anchor = AnchorStyles.Top;
             butEql.BackColor = SystemColors.Highlight;
             butEql.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             butEql.ForeColor = Color.White;
@@ -105,6 +109,7 @@
             // 
             // butPoint
             // 
+            butPoint.Anchor = AnchorStyles.Top;
             butPoint.BackColor = SystemColors.Highlight;
             butPoint.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             butPoint.ForeColor = Color.White;
@@ -119,6 +124,7 @@
             // 
             // but2
             // 
+            but2.Anchor = AnchorStyles.Top;
             but2.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             but2.ForeColor = Color.Blue;
             but2.Image = Properties.Resources.BG1008080www_tiktarh_com_;
@@ -133,6 +139,7 @@
             // 
             // but1
             // 
+            but1.Anchor = AnchorStyles.Top;
             but1.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             but1.ForeColor = Color.Blue;
             but1.Image = Properties.Resources.BG1008080www_tiktarh_com_;
@@ -147,6 +154,7 @@
             // 
             // but0
             // 
+            but0.Anchor = AnchorStyles.Top;
             but0.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             but0.ForeColor = Color.Blue;
             but0.Image = Properties.Resources.BG1008080www_tiktarh_com_;
@@ -161,6 +169,7 @@
             // 
             // but4
             // 
+            but4.Anchor = AnchorStyles.Top;
             but4.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             but4.ForeColor = Color.Blue;
             but4.Image = Properties.Resources.BG1008080www_tiktarh_com_;
@@ -175,6 +184,7 @@
             // 
             // but5
             // 
+            but5.Anchor = AnchorStyles.Top;
             but5.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             but5.ForeColor = Color.Blue;
             but5.Image = Properties.Resources.BG1008080www_tiktarh_com_;
@@ -189,6 +199,7 @@
             // 
             // but6
             // 
+            but6.Anchor = AnchorStyles.Top;
             but6.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             but6.ForeColor = Color.Blue;
             but6.Image = Properties.Resources.BG1008080www_tiktarh_com_;
@@ -203,6 +214,7 @@
             // 
             // but9
             // 
+            but9.Anchor = AnchorStyles.Top;
             but9.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             but9.ForeColor = Color.Blue;
             but9.Image = Properties.Resources.BG1008080www_tiktarh_com_;
@@ -217,6 +229,7 @@
             // 
             // but8
             // 
+            but8.Anchor = AnchorStyles.Top;
             but8.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             but8.ForeColor = Color.Blue;
             but8.Image = Properties.Resources.BG1008080www_tiktarh_com_;
@@ -231,6 +244,7 @@
             // 
             // but7
             // 
+            but7.Anchor = AnchorStyles.Top;
             but7.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             but7.ForeColor = Color.Blue;
             but7.Image = (Image)resources.GetObject("but7.Image");
@@ -245,6 +259,7 @@
             // 
             // butDiv
             // 
+            butDiv.Anchor = AnchorStyles.Top;
             butDiv.BackColor = SystemColors.Highlight;
             butDiv.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             butDiv.ForeColor = Color.White;
@@ -259,6 +274,7 @@
             // 
             // butMin
             // 
+            butMin.Anchor = AnchorStyles.Top;
             butMin.BackColor = SystemColors.Highlight;
             butMin.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             butMin.ForeColor = Color.White;
@@ -273,6 +289,7 @@
             // 
             // butMulti
             // 
+            butMulti.Anchor = AnchorStyles.Top;
             butMulti.BackColor = SystemColors.Highlight;
             butMulti.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             butMulti.ForeColor = Color.White;
@@ -287,6 +304,7 @@
             // 
             // butClear
             // 
+            butClear.Anchor = AnchorStyles.Top;
             butClear.BackColor = Color.Cyan;
             butClear.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             butClear.ForeColor = Color.Red;
@@ -324,6 +342,7 @@
             Controls.Add(butPlus);
             Controls.Add(textBox);
             ForeColor = Color.DodgerBlue;
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Calculator";
